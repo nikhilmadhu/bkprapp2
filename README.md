@@ -23,7 +23,7 @@ Detailed Analysis avaialble in this [Jupyter Notebook](https://github.com/nikhil
     
 
 
-- #### Few Example Predictions :
+- #### Few Example Predictions and its comparison with the actual values :
   > | Actual | Predicted | Error     |
   > |-------|------------|-----------|
   > | 8507   | 7800       | 527.00    | 
@@ -49,6 +49,7 @@ Detailed Analysis avaialble in this [Jupyter Notebook](https://github.com/nikhil
 
 - A sample spread of errors are captured below
     > ![error](https://github.com/user-attachments/assets/e0c141dd-e33b-4e1c-bf7d-f4df7c8929e9)
+- Steps and information on how this model can be applied to predict the prices of new vehicles arriving at the dealership can be found in the accompanying Jupyter notebook.
 
   
 # Detailed Analysis
