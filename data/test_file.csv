@@ -1,0 +1,6 @@
+region,year,manufacturer,model,condition,cylinders,fuel,odometer,title_status,transmission,VIN,drive,size,type,paint_color,state
+long island,2022,nissan,rogue,excellent,4,gas,30000,clean,automatic,Yes,4wd,mid-size,SUV,red,ny
+vermont,2000,ford,taurus,fair,6,diesel,3000,not_clean,automatic,Yes,fwd,full-size,sedan,black,vt
+albuquerque,2013,bmw,x1 xdrive35i,excellent,6,gas,82000,clean,automatic,No,4wd,mid-size,SUV,black,nm
+eugene,2019,ford,fiesta titanium hatchback,like new,4,gas,50836,not_clean,automatic,No,fwd,compact,hatchback,black,or
+bay area,2020,mitsubishi,mirage es hatchback,good,4,gas,1152,clean,manual,Yes,fwd,compact,hatchback,red,ga
