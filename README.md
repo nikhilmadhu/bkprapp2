@@ -13,7 +13,7 @@ Detailed Analysis avaialble in this [Jupyter Notebook](https://github.com/nikhil
   - Manufacturer ( Cars from manufacturers like Ferrari, Aston Martin and Tesla sell at a premium, where as Fiat fared very poorly)
   - Fuel (Diesel being more expensive than gas)
     ![coeff](https://github.com/user-attachments/assets/95c42413-5817-4130-a952-b38c02f712a4)
-- In our model, the variations were noticed when changing the following values : 
+- In our model, the following features were the most influential : 
    - Type of 'drive' [fwd < rwd < 4wd]
    - Number of 'cylinders'
    - 'year' of manufacturing,
@@ -23,7 +23,7 @@ Detailed Analysis avaialble in this [Jupyter Notebook](https://github.com/nikhil
     
 
 
-- #### Few Example Predictions :
+- #### Few Example Predictions and its comparison with the actual values :
   > | Actual | Predicted | Error     |
   > |-------|------------|-----------|
   > | 8507   | 7800       | 527.00    | 
@@ -49,6 +49,7 @@ Detailed Analysis avaialble in this [Jupyter Notebook](https://github.com/nikhil
 
 - A sample spread of errors are captured below
     > ![error](https://github.com/user-attachments/assets/e0c141dd-e33b-4e1c-bf7d-f4df7c8929e9)
+- Steps and information on how this model can be applied to predict the prices of new vehicles arriving at the dealership can be found in the accompanying Jupyter notebook.
 
   
 # Detailed Analysis
