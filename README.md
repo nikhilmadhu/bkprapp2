@@ -21,9 +21,15 @@ Detailed Analysis avaialble in this [Jupyter Notebook](https://github.com/nikhil
    - 'size' of car [full-size > mid-size > compact > sub-compact]
      ![pif](https://github.com/user-attachments/assets/c86e4770-5cd5-4fb4-a60a-df7c5256155d)
     
+ ## Actionable Insights
+   - Older year gas cars from non-premium brands should be priced cheaper. Teslas command a premium
+   - Reduce the price of cars if the title is not clean
+   - If a car has a bigger engine (more cylinders), then, price it higher
+   - Sedans and Hatchbacks are cheaper than SUVs and Convertibles. Let your prices show the same
+   - 4WD should be priced higher than 2WD/RWD - Decide on Loss leaders using this if you have a tie
 
-
-- #### Few Example Predictions and its comparison with the actual values :
+ ## Predictions
+- Few Example Predictions and its comparison with the actual values :
   > | Actual | Predicted | Error     |
   > |-------|------------|-----------|
   > | 8507   | 7800       | 527.00    | 
