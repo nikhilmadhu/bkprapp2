@@ -13,7 +13,7 @@ Detailed Analysis avaialble in this [Jupyter Notebook](https://github.com/nikhil
   - Manufacturer ( Cars from manufacturers like Ferrari, Aston Martin and Tesla sell at a premium, where as Fiat fared very poorly)
   - Fuel (Diesel being more expensive than gas)
     ![coeff](https://github.com/user-attachments/assets/95c42413-5817-4130-a952-b38c02f712a4)
-- In our model, the variations were noticed when changing the following values : 
+- In our model, the following features were the most influential : 
    - Type of 'drive' [fwd < rwd < 4wd]
    - Number of 'cylinders'
    - 'year' of manufacturing,
